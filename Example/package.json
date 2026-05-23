@@ -9,7 +9,7 @@
     "dev": "concurrently 'npm run watch' 'npm run packager'"
   },
   "dependencies": {
-    "react": "15.4.1",
+    "react": "15.7.0",
     "react-native": "0.39.2",
     "react-native-counter": "file:../"
   },
